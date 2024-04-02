@@ -32,8 +32,8 @@ The Rock, Paper, Scissors challenge tasks participants with building a user inte
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-tailwindcss-Wc8_i7rnl9)
-- Live Site URL: [Live Demo](https://blog-preview-card-tailwindcss.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/the-rock-paper-scissors-challenge-using-tailwindcss-0aNWAU1fv3)
+- Live Site URL: [Live Demo](https://rock-paper-scissors-tailwindcss.vercel.app/)
 
 ## My process
 
